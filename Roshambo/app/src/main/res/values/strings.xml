@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Roshambo</string>
+    <string name="games_move_content_desc">AI Move Image</string>
+    <string name="player_text">Your move</string>
+    <string name="ai_text">AI move</string>
+    <string name="win_lose_draw_text">WIN/LOSE/DRAW</string>
+    <string name="win">WIN</string>
+    <string name="lose">LOSE</string>
+    <string name="draw">DRAW</string>
+    <string name="set_error">An error occurred. Please try again</string>
+</resources>
